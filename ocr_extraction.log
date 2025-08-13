@@ -44,3 +44,41 @@
 2025-08-12 15:04:05,654 - INFO - Extracted text from page 14
 2025-08-12 15:04:05,656 - WARNING - No tables found on page 14
 2025-08-12 15:04:05,657 - INFO - Generating chunks from extracted content.
+2025-08-13 17:11:08,384 - WARNING - Document is not searchable. Using OCR.
+2025-08-13 17:11:08,385 - INFO - Opened PDF file: /tmp/tmpw7kmb91e.pdf
+2025-08-13 17:11:09,430 - ERROR - Error processing page 1: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:10,041 - ERROR - Error processing page 2: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:10,729 - ERROR - Error processing page 3: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:11,858 - ERROR - Error processing page 4: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:12,407 - ERROR - Error processing page 5: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:13,049 - ERROR - Error processing page 6: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:13,970 - ERROR - Error processing page 7: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:14,519 - ERROR - Error processing page 8: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:15,083 - ERROR - Error processing page 9: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:15,645 - ERROR - Error processing page 10: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:16,202 - ERROR - Error processing page 11: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:16,905 - ERROR - Error processing page 12: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:17,440 - ERROR - Error processing page 13: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:18,044 - ERROR - Error processing page 14: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:18,705 - ERROR - Error processing page 15: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:19,319 - ERROR - Error processing page 16: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:19,852 - ERROR - Error processing page 17: C:/Users/2345029/AppData/Local/Programs/Tesseract-OCR/tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-08-13 17:11:19,855 - INFO - Generating chunks from extracted content.
+2025-08-13 17:11:42,645 - INFO - Document is searchable. Extracting text.
+2025-08-13 17:11:42,650 - INFO - Opened PDF file: /tmp/tmp8vgh3kyu.pdf
+2025-08-13 17:11:42,778 - INFO - Extracted text from page 1
+2025-08-13 17:11:42,787 - INFO - Converted and added table from page 1 to text_content
+2025-08-13 17:11:42,866 - INFO - Extracted text from page 2
+2025-08-13 17:11:42,875 - WARNING - No tables found on page 2
+2025-08-13 17:11:42,939 - INFO - Extracted text from page 3
+2025-08-13 17:11:42,942 - WARNING - No tables found on page 3
+2025-08-13 17:11:43,007 - INFO - Extracted text from page 4
+2025-08-13 17:11:43,038 - INFO - Converted and added table from page 4 to text_content
+2025-08-13 17:11:43,105 - INFO - Extracted text from page 5
+2025-08-13 17:11:43,145 - INFO - Converted and added table from page 5 to text_content
+2025-08-13 17:11:43,146 - INFO - Converted and added table from page 5 to text_content
+2025-08-13 17:11:43,269 - INFO - Extracted text from page 6
+2025-08-13 17:11:43,340 - INFO - Converted and added table from page 6 to text_content
+2025-08-13 17:11:43,454 - INFO - Extracted text from page 7
+2025-08-13 17:11:43,479 - INFO - Converted and added table from page 7 to text_content
+2025-08-13 17:11:43,480 - INFO - Generating chunks from extracted content.
