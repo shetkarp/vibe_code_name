@@ -1,0 +1,46 @@
+2025-08-12 15:04:00,916 - INFO - Document is searchable. Extracting text.
+2025-08-12 15:04:00,998 - INFO - Opened PDF file: C:\Users\2382831\AppData\Local\Temp\tmpyptztrat.pdf
+2025-08-12 15:04:01,079 - INFO - Extracted text from page 1
+2025-08-12 15:04:01,083 - WARNING - No tables found on page 1
+2025-08-12 15:04:01,340 - INFO - Extracted text from page 2
+2025-08-12 15:04:01,354 - WARNING - No tables found on page 2
+2025-08-12 15:04:01,394 - INFO - Extracted text from page 3
+2025-08-12 15:04:01,402 - INFO - Converted and added table from page 3 to text_content
+2025-08-12 15:04:01,403 - INFO - Converted and added table from page 3 to text_content
+2025-08-12 15:04:01,510 - INFO - Extracted text from page 4
+2025-08-12 15:04:01,516 - WARNING - No tables found on page 4
+2025-08-12 15:04:01,544 - WARNING - Cannot set gray non-stroke color because /'P84' is an invalid float value
+2025-08-12 15:04:01,921 - INFO - Extracted text from page 5
+2025-08-12 15:04:02,050 - INFO - Converted and added table from page 5 to text_content
+2025-08-12 15:04:02,117 - WARNING - Cannot set gray non-stroke color because /'P129' is an invalid float value
+2025-08-12 15:04:02,560 - INFO - Extracted text from page 6
+2025-08-12 15:04:02,684 - INFO - Converted and added table from page 6 to text_content
+2025-08-12 15:04:02,695 - WARNING - Cannot set gray non-stroke color because /'P187' is an invalid float value
+2025-08-12 15:04:02,961 - INFO - Extracted text from page 7
+2025-08-12 15:04:03,031 - INFO - Converted and added table from page 7 to text_content
+2025-08-12 15:04:03,042 - WARNING - Cannot set gray non-stroke color because /'P227' is an invalid float value
+2025-08-12 15:04:03,347 - INFO - Extracted text from page 8
+2025-08-12 15:04:03,424 - INFO - Converted and added table from page 8 to text_content
+2025-08-12 15:04:03,426 - INFO - Converted and added table from page 8 to text_content
+2025-08-12 15:04:03,430 - WARNING - Cannot set gray non-stroke color because /'P266' is an invalid float value
+2025-08-12 15:04:03,693 - INFO - Extracted text from page 9
+2025-08-12 15:04:03,749 - INFO - Converted and added table from page 9 to text_content
+2025-08-12 15:04:03,750 - INFO - Converted and added table from page 9 to text_content
+2025-08-12 15:04:03,758 - WARNING - Cannot set gray non-stroke color because /'P301' is an invalid float value
+2025-08-12 15:04:04,150 - INFO - Extracted text from page 10
+2025-08-12 15:04:04,259 - INFO - Converted and added table from page 10 to text_content
+2025-08-12 15:04:04,260 - INFO - Converted and added table from page 10 to text_content
+2025-08-12 15:04:04,265 - WARNING - Cannot set gray non-stroke color because /'P336' is an invalid float value
+2025-08-12 15:04:04,737 - INFO - Extracted text from page 11
+2025-08-12 15:04:04,921 - INFO - Converted and added table from page 11 to text_content
+2025-08-12 15:04:04,923 - INFO - Converted and added table from page 11 to text_content
+2025-08-12 15:04:04,924 - INFO - Converted and added table from page 11 to text_content
+2025-08-12 15:04:04,941 - WARNING - Cannot set gray non-stroke color because /'P371' is an invalid float value
+2025-08-12 15:04:05,220 - INFO - Extracted text from page 12
+2025-08-12 15:04:05,332 - INFO - Converted and added table from page 12 to text_content
+2025-08-12 15:04:05,349 - WARNING - Cannot set gray non-stroke color because /'P412' is an invalid float value
+2025-08-12 15:04:05,575 - INFO - Extracted text from page 13
+2025-08-12 15:04:05,635 - INFO - Converted and added table from page 13 to text_content
+2025-08-12 15:04:05,654 - INFO - Extracted text from page 14
+2025-08-12 15:04:05,656 - WARNING - No tables found on page 14
+2025-08-12 15:04:05,657 - INFO - Generating chunks from extracted content.
